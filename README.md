@@ -1,6 +1,15 @@
 ### Here is what I'm working on! 👋
 
-contact: mdsong@andrew.cmu.edu
+Courses taken at Carnegie Mellon University:
+15-110: Principles of Computing (Python)
+15-112: Fundamentals of Programming (Python)
+15-122: Principles of Imperative Computing (C)
+
+36-350: Statistical Computing (R + SQL)
+
+10-301/10-601: Introduction to Machine Learning
+
+contact: msongsfs@gmail.com
 
 <!--
 **matthewsongster/matthewsongster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
