@@ -7,6 +7,8 @@ Courses taken at Carnegie Mellon University:
 - 36-350: Statistical Computing (R + SQL)
 - 10-301/10-601: Introduction to Machine Learning
 
+Check out the CMU repository for my projects!
+
 contact: msongsfs@gmail.com
 
 <!--
