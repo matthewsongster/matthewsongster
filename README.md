@@ -1,11 +1,16 @@
 ### Here is what I'm working on! 👋
 
 Courses taken at Carnegie Mellon University:
-- 15-110: Principles of Computing (Python)
 - 15-112: Fundamentals of Programming (Python)
 - 15-122: Principles of Imperative Computing (C)
 - 36-350: Statistical Computing (R + SQL)
-- 10-301/10-601: Introduction to Machine Learning
+- 10-601: Machine Learning
+- 15-213: Computer Systems
+- 36-402: Adv. Methods of Data Analysis
+- 15-281: Artificial Intelligence
+- 15-351: Algorithms of Adv. Data Structures
+- 21-393: Operations Research I/II
+- 21-369: Numerical Methods
 
 Check out the CMU repository for my projects!
 
